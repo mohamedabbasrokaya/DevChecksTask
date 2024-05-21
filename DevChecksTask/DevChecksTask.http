@@ -1,0 +1,6 @@
+@DevChecksTask_HostAddress = http://localhost:5228
+
+GET {{DevChecksTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
